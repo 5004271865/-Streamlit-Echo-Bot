@@ -1,15 +1,7 @@
 import streamlit as st
-import numpy as np
 
 
-
-with st.chat_message("user"):
-    st.write("Hello")
-
-with st.title("Echo Bot")
-
-with st.chat_message("assistant"):
-    st.image(“PoweBIDashboardGE.png", caption="CIT 144 – Demographics Data Visualization")
+ st.title("Gaby Echo Bot ")
 
 
 # Initialize chat history
